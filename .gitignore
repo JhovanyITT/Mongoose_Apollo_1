@@ -1,0 +1,5 @@
+# Ignorando los paquetes de las dependencias
+node_modules/
+
+# Ignorando los .json del proyecto
+*.json
